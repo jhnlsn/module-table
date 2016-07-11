@@ -1,0 +1,23 @@
+{
+  "name": "module-table",
+  "version": "1.0.0",
+  "description": "testing npm3",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhnlsn/module-table.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhnlsn/module-table/issues"
+  },
+  "homepage": "https://github.com/jhnlsn/module-table#readme"
+}
